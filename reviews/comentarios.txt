@@ -1,0 +1,6 @@
+Bugs & comments
+
+2. El texto del testimonio tiene que estar en negrita en algunas secciones
+
+4. Guardar los archivos de los props en un json
+
